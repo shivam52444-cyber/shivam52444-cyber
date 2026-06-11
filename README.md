@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivam
+# 👋 Hi, I'm Shivam Pandey
 
 🚀 **Data Scientist | ML Engineer | Generative AI & Agentic Systems**
 
