@@ -1,114 +1,29 @@
-# 👋 Hi, I'm Shivam Pandey
+# Hi, I'm Shivam Pandey
 
-🚀 **Data Scientist | ML Engineer | Generative AI & Agentic Systems**
+Data Scientist / ML Engineer, focused on NLP, LLM applications, and applied statistics.
 
----
+## What I work with
 
-## 🧠 About Me
+- **Languages:** Python
+- **ML / Stats:** scikit-learn, statsmodels, NumPy, Pandas, hypothesis testing & experiment design
+- **Deep Learning:** PyTorch, Transformer architectures (implemented one from scratch — see pinned repo)
+- **LLM / GenAI:** RAG pipelines, LangChain, prompt engineering, agent tool-calling
+- **Tools:** Git, Docker (basic), SQL
 
-I’m a **data scientist** focused on building intelligent systems with strong foundations in **mathematics, machine learning, and scalable AI systems**.
+## Currently learning / building
 
-* 🔬 Focus on **ML theory + production systems**
-* 🤖 Working on **Generative AI, LLMs, and Agentic AI**
-* 📊 Interested in **A/B testing, causality, and statistical modeling**
-* ⚙️ Build **end-to-end ML & AI pipelines**
-* 🧠 Learn everything from **first principles → research depth**
+- Retrieval optimization and hybrid search for RAG
+- Multi-step LLM agents with tool use
+- Bayesian inference and probabilistic modeling — going through the math, not just the libraries
 
----
+## Selected projects
 
-## 🔥 What I’m Currently Working On
+- **[transformer-from-scratch](https://github.com/shivam52444-cyber/transformer-from-scratch)** — implemented attention, positional encoding, and the training loop without high-level abstractions, to understand the architecture beyond `model.fit()`.
+- **[HRM-application](https://github.com/shivam52444-cyber/HRM-application)** — resume screening pipeline: PDF parsing → LLM-based scoring → HR/manager review dashboard → automated email. Streamlit + LangChain + SQLite. See the repo for an honest breakdown of what's solid vs. what's still a prototype.
+- **[SQL-project](https://github.com/shivam52444-cyber/SQL-project)** — [one line on what this actually does]
 
-* 🧩 Advanced **Sentiment Analysis (NLP)**
-* 🤖 **Agentic AI systems** (multi-step reasoning, tool usage)
-* ⚡ **Advanced RAG pipelines** (retrieval optimization, hybrid search)
-* 🧠 Deep diving into:
+## Open to
 
-  * Transformers (RoPE, Attention, FFN)
-  * Loss functions & optimization
-  * Bayesian inference & probabilistic modeling
+ML / Data Science / Applied NLP roles. Happy to talk through any project above in detail — code, design decisions, and what I'd do differently next time.
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-* Python (Primary)
-
----
-
-### 📊 Machine Learning & Data Science
-
-* Scikit-learn
-* Statsmodels
-* NumPy / Pandas
-
----
-
-### 🤖 Deep Learning & LLMs
-
-* PyTorch
-* Transformers Architecture
-* Fine-tuning & Embeddings
-* LLM Optimization
-
----
-
-### 🧠 Generative AI & Agentic Systems
-
-* RAG (Retrieval-Augmented Generation)
-* **Advanced RAG** (Hybrid search, re-ranking, chunking strategies)
-* **Agentic AI** (multi-step reasoning, tool calling)
-* **MCP (Model Context Protocol)** based systems
-* Prompt Engineering & Evaluation
-* LLM-based pipelines
-
----
-
-### ⚙️ Tools & Systems
-
-* Git & GitHub
-* Docker (basic)
-* ML Pipelines (training → deployment → monitoring)
-* Data Processing Systems
-
----
-
-## 📚 What I Believe In
-
-> “Don’t just use models — understand why they work.”
-
-* Mathematical intuition > blind usage
-* Derivation > memorization
-* Systems thinking > isolated models
-
----
-
-## 📈 Goals
-
-* 🏆 Become a **top-tier Data Scientist / AI Engineer**
-* 💰 Targeting **high-impact, high-paying ML roles**
-* 🧠 Reach **research-level mastery in ML, DL, and GenAI**
-* 🚀 Build scalable **AI systems used in real-world products**
-
----
-
-## 📂 Featured Work
-
-* 🤖 Agentic AI Systems (tool-using LLMs)
-* 🔍 Advanced RAG Pipelines
-* 📊 Statistical Modeling & A/B Testing
-* ⚡ ML Optimization & Pipeline Design
-
-*(Projects continuously evolving...)*
-
----
-
-## 🤝 Let’s Connect
-
-* 💼 Open to **AI/ML & GenAI opportunities**
-* 📬 Interested in **collaboration, research, and system design discussions**
-
----
-
-⭐️ *If you like my work, consider giving a star to my repositories!*
+📫 [LinkedIn](https://www.linkedin.com/in/shivam52444)
