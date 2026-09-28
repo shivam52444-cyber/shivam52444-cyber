@@ -1,29 +1,54 @@
-# Hi, I'm Shivam Pandey
+# Shivam Pandey
 
-Data Scientist / ML Engineer, focused on NLP, LLM applications, and applied statistics.
+**Applied AI / ML Engineer**
 
-## What I work with
+I build AI systems around **LLMs, retrieval, agentic workflows, NLP, and statistical reasoning**.
 
-- **Languages:** Python
-- **ML / Stats:** scikit-learn, statsmodels, NumPy, Pandas, hypothesis testing & experiment design
-- **Deep Learning:** PyTorch, Transformer architectures (implemented one from scratch — see pinned repo)
-- **LLM / GenAI:** RAG pipelines, LangChain, prompt engineering, agent tool-calling
-- **Tools:** Git, Docker (basic), SQL
+My focus is on taking AI ideas beyond a basic demo — designing the retrieval, orchestration, evaluation, backend and deployment layers needed to make the system usable.
 
-## Currently learning / building
+## Flagship Projects
 
-- Retrieval optimization and hybrid search for RAG
-- Multi-step LLM agents with tool use
-- Bayesian inference and probabilistic modeling — going through the math, not just the libraries
+### DocQa
 
-## Selected projects
+Asynchronous document intelligence system using FastAPI, Streamlit, ECS, S3, PostgreSQL + pgvector, workers, guardrails and RAG.
+http://docqa-frontend-alb-350394554.ap-south-2.elb.amazonaws.com 
 
-- **[transformer-from-scratch](https://github.com/shivam52444-cyber/transformer-from-scratch)** — implemented attention, positional encoding, and the training loop without high-level abstractions, to understand the architecture beyond `model.fit()`.
-- **[HRM-application](https://github.com/shivam52444-cyber/HRM-application)** — resume screening pipeline: PDF parsing → LLM-based scoring → HR/manager review dashboard → automated email. Streamlit + LangChain + SQLite. See the repo for an honest breakdown of what's solid vs. what's still a prototype.
-- **[SQL-project](https://github.com/shivam52444-cyber/SQL-project)** — [one line on what this actually does]
+### FixIT
 
-## Open to
+Multi-agent software engineering system using LangGraph for requirement analysis, planning, code generation, validation and review.
 
-ML / Data Science / Applied NLP roles. Happy to talk through any project above in detail — code, design decisions, and what I'd do differently next time.
+### ACAndid
 
-📫 [LinkedIn](https://www.linkedin.com/in/shivam52444)
+Repository-aware candidate evaluation system combining resume/JD analysis, code understanding, dependency graphs, embeddings, retrieval and LLM reasoning.
+https://acandid-5.onrender.com/
+
+### BoatQl
+
+Natural-language-to-SQL system for querying structured datasets and generating data-driven analysis.
+https://authbridge2-0-9.onrender.com/
+### Inference Lab
+
+Statistical experimentation toolkit covering frequentist and Bayesian inference, experiment design and survival analysis.
+
+### Transformer From Scratch
+
+Transformer implementation built from the underlying architecture to understand attention, embeddings and training mechanics.
+
+## Technical Focus
+
+**AI/ML:** Python, PyTorch, scikit-learn, NLP, transformers
+**LLM Systems:** RAG, embeddings, retrieval, LangChain, LangGraph, tool calling, MCP
+**Backend:** FastAPI, PostgreSQL, REST APIs, asynchronous workers
+**Cloud:** AWS, Docker, ECS, S3, RDS, ALB, Bedrock
+**Statistics:** hypothesis testing, Bayesian inference, experiment design
+
+## What I care about
+
+* Retrieval quality and evaluation
+* Reliable agentic workflows
+* LLM system architecture
+* ML/statistical reasoning
+* Production-oriented AI infrastructure
+
+I'm interested in **Applied AI / ML Engineering opportunities** where I can work on real-world intelligent systems.
+
