@@ -39,7 +39,9 @@ Transformer implementation built from the underlying architecture to understand 
 **AI/ML:** Python, PyTorch, scikit-learn, NLP, transformers
 **LLM Systems:** RAG, embeddings, retrieval, LangChain, LangGraph, tool calling, MCP
 **Backend:** FastAPI, PostgreSQL, REST APIs, asynchronous workers
+
 **Cloud:** AWS, Docker, ECS, S3, RDS, ALB, Bedrock
+
 **Statistics:** hypothesis testing, Bayesian inference, experiment design
 
 ## What I care about
